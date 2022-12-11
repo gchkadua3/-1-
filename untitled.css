@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    
+    background-color: lightgreen;
+}
+
+div {
+    
+    text-align: center;
+}
+
+img {
+    border-radius: 4px;
+    width: 300px;
+    height: 300px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+span {
+    color: red;
+}
